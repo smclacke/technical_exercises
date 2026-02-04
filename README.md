@@ -1,8 +1,8 @@
 # Technical Exercises
 
 ## A space to practice basic coding problems
-## This repo focuses on a data structures and algorithms:
-
+## This repo focuses on data structures and algorithms
+### Included:
 - Arrays and strings
 - Hashmaps and sets
 - Linked lists
