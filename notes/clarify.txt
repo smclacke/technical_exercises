@@ -1,0 +1,9 @@
+After receiving problem, ensure it is clear and ask clarifying questions:
+	- input only integers or other data types too?
+	- input sorted or unsorted?
+	- input guaranteed to have elements or could be empty?
+	- handling of invalid input?
+	- expected input size?
+		- if n is small -> likely backtracking
+		- if n 100-1000 -> O(n^2) might be optimal
+		- n very large -> need better solution than O(n)
