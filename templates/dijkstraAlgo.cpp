@@ -1,4 +1,5 @@
 /* Dijkstra's algorithm */
+/* finding the shortest paths between nodes in a weighted graph */
 
 vector<int> distances(n, INT_MAX);
 distances[source] = 0;
